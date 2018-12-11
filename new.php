@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<!-- tutaj wstaw tresc strony -->
+<h1>Tytul dokumentu</h1>
 
 </body>
 </html>
