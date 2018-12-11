@@ -13,6 +13,7 @@
 <body>
 
 <h1>Tytul dokumentu</h1>
+<p>To pierwszy paragraf nowego dokumentu. Testuje GITa</p>
 
 </body>
 </html>
